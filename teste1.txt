@@ -1,1 +1,24 @@
 Teste de digitação do repositorio GIT.
+
+Após criar o repositorio no GITHUB
+
+deve-se fazer o clone com o comando 
+
+* git clone () link ssh gerado no GITHUB no seu repositorio local.
+
+Para verificar se fez o uso do URL correto do seu repositorio pode-se 
+utilizar do comando
+
+* git remote -v.
+
+Apos criar um documento para 'codar' pode-se deixa-lo na área de transferencia
+para o repositório git usando o comando 
+
+*git add . ou git add nome.extensão.
+
+antes de fazer o envio utilizando o comando commit pode se utilizar
+o comando git status e verificar se o arquivo se encontra como verde
+se não estiver use o comando add novamente.
+
+Após ver que está realmente pronto para envio pelo commit atráves 
+do git status.
